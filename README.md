@@ -1,6 +1,6 @@
-# 📊 Ola Rides Data Analysis Project
+# 📊 Uber-Ola Rides Data Analysis Project
  
-This project presents an in-depth analysis of Ola cab bookings using Excel and Power BI. It focuses on uncovering key insights and trends from 100,000+ ride records to better understand customer behavior, ride patterns, and business performance.
+This project presents an in-depth analysis of the cab bookings using Excel and Power BI. It focuses on uncovering key insights and trends from 100,000+ ride records to better understand customer behavior, ride patterns, and business performance.
  
 ## 📁 Project Structure
 ```
